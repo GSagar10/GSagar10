@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Ghorge  
 
-**💼 Linux AWS Admin | Infrastructure Asmin**  
+**💼 Linux AWS Admin | Infrastructure Admin**  
 6+ years of experience managing and automating Linux-based infrastructure, with expertise in AWS, RHEL, and DevOps tools.
 
 ---
