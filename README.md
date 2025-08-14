@@ -39,11 +39,6 @@ I enjoy optimizing systems, automating processes, and ensuring uptime and perfor
 - ⚡ Fun fact: *I can debug a server faster than I can decide what to eat for lunch.*  
 
 ---
-
-## 📊 GitHub Stats
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgharge&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgharge&layout=compact&theme=radical)
-
 ---
 
 ## 🏷 Tech Badges
