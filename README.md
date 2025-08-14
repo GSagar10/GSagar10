@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Ghorge  
 
-**💼 Linux AWS Admin | Infrastructure Specialist**  
+**💼 Linux AWS Admin | Infrastructure Admin**  
 6+ years of experience managing and automating Linux-based infrastructure, with expertise in AWS, RHEL, and DevOps tools.
 
 ## 🚀 Skills & Technologies
@@ -19,7 +19,7 @@ I enjoy optimizing systems, automating processes, and ensuring uptime and perfor
 - Exploring CI/CD integrations  
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Sagar Ghorge](https://www.linkedin.com/in/sagar-gharge-4017347a)  
+- **LinkedIn:** [Sagar Gharge](https://www.linkedin.com/in/sagar-gharge-4017347a)  
 - **Email:** sagar.gharge10491@gmail.com  
 
 ## 🌟 Quick GitHub Intro
@@ -37,12 +37,6 @@ I enjoy optimizing systems, automating processes, and ensuring uptime and perfor
 💡 *Always open to collaboration on Linux, AWS, and automation-related projects.*
 ```
 ---
-
-If you want, I can also **design a custom banner image** for the top of your GitHub profile so it looks like a professional portfolio.
-
-Do you want me to create that banner too?
-
-
 <!---
 GSagar10/GSagar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
