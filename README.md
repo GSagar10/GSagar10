@@ -39,7 +39,6 @@ I enjoy optimizing systems, automating processes, and ensuring uptime and perfor
 - ⚡ Fun fact: *I can debug a server faster than I can decide what to eat for lunch.*  
 
 ---
----
 
 ## 🏷 Tech Badges
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)  
